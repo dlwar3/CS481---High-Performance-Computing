@@ -1,0 +1,15 @@
+#!/bin/bash -l
+
+#SBATCH -q defq
+#SBATCH -N 1
+#SBATCH -n 32
+#SBATCH -t 00:45:00
+#SBATCH -J parallelMM_middle
+#SBATCH -o ./output/console/parallelMiddle/parallelMM_middle.%j.out
+#SBATCH -e ./output/error/parallelMiddle/parallelMM_middle.%j.error
+
+./parallelMM_middle 1
+./parallelMM_middle 4
+./parallelMM_middle 8
+./parallelMM_middle 16
+./parallelMM_middle 32

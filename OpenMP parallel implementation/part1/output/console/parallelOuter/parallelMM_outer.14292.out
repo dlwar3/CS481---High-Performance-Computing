@@ -1,0 +1,44 @@
+Running middle loop parallel version with 1 threads
+
+Time of computation for run 0: 53.669215 seconds
+Time of computation for run 1: 53.278048 seconds
+Time of computation for run 2: 50.308420 seconds
+Time of computation for run 3: 39.317889 seconds
+Time of computation for run 4: 39.101395 seconds
+Average run time over 5 runs is 47.134993
+
+Running middle loop parallel version with 4 threads
+
+Time of computation for run 0: 17.007751 seconds
+Time of computation for run 1: 16.738545 seconds
+Time of computation for run 2: 17.283915 seconds
+Time of computation for run 3: 16.603582 seconds
+Time of computation for run 4: 16.822703 seconds
+Average run time over 5 runs is 16.891299
+
+Running middle loop parallel version with 8 threads
+
+Time of computation for run 0: 9.621101 seconds
+Time of computation for run 1: 10.070429 seconds
+Time of computation for run 2: 10.044771 seconds
+Time of computation for run 3: 10.040010 seconds
+Time of computation for run 4: 10.002147 seconds
+Average run time over 5 runs is 9.955691
+
+Running middle loop parallel version with 16 threads
+
+Time of computation for run 0: 4.916036 seconds
+Time of computation for run 1: 5.014646 seconds
+Time of computation for run 2: 5.070490 seconds
+Time of computation for run 3: 5.020865 seconds
+Time of computation for run 4: 4.973956 seconds
+Average run time over 5 runs is 4.999199
+
+Running middle loop parallel version with 32 threads
+
+Time of computation for run 0: 2.524609 seconds
+Time of computation for run 1: 2.517514 seconds
+Time of computation for run 2: 2.484199 seconds
+Time of computation for run 3: 2.494828 seconds
+Time of computation for run 4: 2.452679 seconds
+Average run time over 5 runs is 2.494766
