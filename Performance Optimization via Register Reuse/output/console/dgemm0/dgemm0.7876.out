@@ -1,0 +1,162 @@
+RUN 0: 
+dgemm0 (dim=64):: Total time in seconds is: 0.001088
+Max difference is 2105698831.000000
+RUN 1: 
+dgemm0 (dim=64):: Total time in seconds is: 0.001061
+RUN 2: 
+dgemm0 (dim=64):: Total time in seconds is: 0.001030
+RUN 3: 
+dgemm0 (dim=64):: Total time in seconds is: 0.001015
+RUN 4: 
+dgemm0 (dim=64):: Total time in seconds is: 0.000975
+RUN 5: 
+dgemm0 (dim=64):: Total time in seconds is: 0.001031
+RUN 6: 
+dgemm0 (dim=64):: Total time in seconds is: 0.000974
+RUN 7: 
+dgemm0 (dim=64):: Total time in seconds is: 0.000975
+RUN 8: 
+dgemm0 (dim=64):: Total time in seconds is: 0.000976
+RUN 9: 
+dgemm0 (dim=64):: Total time in seconds is: 0.001030
+
+numOps: 262144.000000
+TOTAL TIME FOR dgemm0: 0.010155
+AVERAGE GLOPS OF dgemm0 (RUNS: 10, n: 64) = 0.516283
+
+
+RUN 0: 
+dgemm0 (dim=128):: Total time in seconds is: 0.008980
+Max difference is 2129705390.000000
+RUN 1: 
+dgemm0 (dim=128):: Total time in seconds is: 0.009000
+RUN 2: 
+dgemm0 (dim=128):: Total time in seconds is: 0.009058
+RUN 3: 
+dgemm0 (dim=128):: Total time in seconds is: 0.009032
+RUN 4: 
+dgemm0 (dim=128):: Total time in seconds is: 0.008862
+RUN 5: 
+dgemm0 (dim=128):: Total time in seconds is: 0.009142
+RUN 6: 
+dgemm0 (dim=128):: Total time in seconds is: 0.008863
+RUN 7: 
+dgemm0 (dim=128):: Total time in seconds is: 0.008625
+RUN 8: 
+dgemm0 (dim=128):: Total time in seconds is: 0.008583
+RUN 9: 
+dgemm0 (dim=128):: Total time in seconds is: 0.008575
+
+numOps: 2097152.000000
+TOTAL TIME FOR dgemm0: 0.088721
+AVERAGE GLOPS OF dgemm0 (RUNS: 10, n: 128) = 0.472754
+
+
+RUN 0: 
+dgemm0 (dim=256):: Total time in seconds is: 0.081819
+Max difference is 2146711253.000000
+RUN 1: 
+dgemm0 (dim=256):: Total time in seconds is: 0.076743
+RUN 2: 
+dgemm0 (dim=256):: Total time in seconds is: 0.077742
+RUN 3: 
+dgemm0 (dim=256):: Total time in seconds is: 0.076966
+RUN 4: 
+dgemm0 (dim=256):: Total time in seconds is: 0.077044
+RUN 5: 
+dgemm0 (dim=256):: Total time in seconds is: 0.077585
+RUN 6: 
+dgemm0 (dim=256):: Total time in seconds is: 0.077363
+RUN 7: 
+dgemm0 (dim=256):: Total time in seconds is: 0.077260
+RUN 8: 
+dgemm0 (dim=256):: Total time in seconds is: 0.077443
+RUN 9: 
+dgemm0 (dim=256):: Total time in seconds is: 0.077453
+
+numOps: 16777216.000000
+TOTAL TIME FOR dgemm0: 0.777417
+AVERAGE GLOPS OF dgemm0 (RUNS: 10, n: 256) = 0.431614
+
+
+RUN 0: 
+dgemm0 (dim=512):: Total time in seconds is: 1.205735
+Max difference is 2142529924.000000
+RUN 1: 
+dgemm0 (dim=512):: Total time in seconds is: 1.210237
+RUN 2: 
+dgemm0 (dim=512):: Total time in seconds is: 1.211417
+RUN 3: 
+dgemm0 (dim=512):: Total time in seconds is: 1.212175
+RUN 4: 
+dgemm0 (dim=512):: Total time in seconds is: 1.215476
+RUN 5: 
+dgemm0 (dim=512):: Total time in seconds is: 1.228737
+RUN 6: 
+dgemm0 (dim=512):: Total time in seconds is: 1.208914
+RUN 7: 
+dgemm0 (dim=512):: Total time in seconds is: 1.219057
+RUN 8: 
+dgemm0 (dim=512):: Total time in seconds is: 1.200530
+RUN 9: 
+dgemm0 (dim=512):: Total time in seconds is: 1.199929
+
+numOps: 134217728.000000
+TOTAL TIME FOR dgemm0: 12.112207
+AVERAGE GLOPS OF dgemm0 (RUNS: 10, n: 512) = 0.221624
+
+
+RUN 0: 
+dgemm0 (dim=1024):: Total time in seconds is: 9.175275
+Max difference is 2144859494.000000
+RUN 1: 
+dgemm0 (dim=1024):: Total time in seconds is: 8.976130
+RUN 2: 
+dgemm0 (dim=1024):: Total time in seconds is: 8.980984
+RUN 3: 
+dgemm0 (dim=1024):: Total time in seconds is: 9.036511
+RUN 4: 
+dgemm0 (dim=1024):: Total time in seconds is: 9.000003
+RUN 5: 
+dgemm0 (dim=1024):: Total time in seconds is: 8.957142
+RUN 6: 
+dgemm0 (dim=1024):: Total time in seconds is: 8.974256
+RUN 7: 
+dgemm0 (dim=1024):: Total time in seconds is: 9.020427
+RUN 8: 
+dgemm0 (dim=1024):: Total time in seconds is: 9.017581
+RUN 9: 
+dgemm0 (dim=1024):: Total time in seconds is: 8.997924
+
+numOps: 1073741824.000000
+TOTAL TIME FOR dgemm0: 90.136234
+AVERAGE GLOPS OF dgemm0 (RUNS: 10, n: 1024) = 0.238249
+
+
+RUN 0: 
+dgemm0 (dim=2048):: Total time in seconds is: 73.942948
+Max difference is 2147434771.000000
+RUN 1: 
+dgemm0 (dim=2048):: Total time in seconds is: 71.654833
+RUN 2: 
+dgemm0 (dim=2048):: Total time in seconds is: 124.588616
+RUN 3: 
+dgemm0 (dim=2048):: Total time in seconds is: 71.250532
+RUN 4: 
+dgemm0 (dim=2048):: Total time in seconds is: 102.934629
+RUN 5: 
+dgemm0 (dim=2048):: Total time in seconds is: 71.751814
+RUN 6: 
+dgemm0 (dim=2048):: Total time in seconds is: 71.638375
+RUN 7: 
+dgemm0 (dim=2048):: Total time in seconds is: 74.514021
+RUN 8: 
+dgemm0 (dim=2048):: Total time in seconds is: 73.296961
+RUN 9: 
+dgemm0 (dim=2048):: Total time in seconds is: 73.309483
+
+numOps: 8589934592.000000
+TOTAL TIME FOR dgemm0: 808.882214
+AVERAGE GLOPS OF dgemm0 (RUNS: 10, n: 2048) = 0.212390
+
+

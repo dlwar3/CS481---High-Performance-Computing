@@ -1,0 +1,3 @@
+RUN 0: 
+dgemm3 (dim=64) :: Total time in seconds is: 0.000209
+
